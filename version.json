@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/Alanisagoodboy/ly-pet-release/releases/download/v0.4.0/ly-pet-0.4.0.exe",
-  "notes": "双角色凌玉/蓝鱼可切换、212段AI视频动画、大小可调（滚轮）、拖到哪停到哪、Agent状态源可配置（Hermes/WorkBuddy/不接入）"
+  "version": "0.4.1",
+  "url": "https://github.com/Alanisagoodboy/ly-pet-release/releases/download/v0.4.1/ly-pet-0.4.1.exe",
+  "notes": "双击不再弹出聊天面板；其余同 0.4.0（双角色/212段动画/大小可调/状态源可配置）"
 }
