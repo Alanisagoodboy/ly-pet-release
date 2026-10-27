@@ -1,5 +1,5 @@
 {
-  "version": "0.4.1",
-  "url": "https://github.com/Alanisagoodboy/ly-pet-release/releases/download/v0.4.1/ly-pet-0.4.1.exe",
-  "notes": "双击不再弹出聊天面板；其余同 0.4.0（双角色/212段动画/大小可调/状态源可配置）"
+  "version": "0.4.2",
+  "url": "https://github.com/Alanisagoodboy/ly-pet-release/releases/download/v0.4.2/ly-pet-0.4.2.exe",
+  "notes": "新增 ZCode 状态源（零配置实时显示工具调用）；工作状态动画池轮换+摸鱼；状态源一级菜单；移除聊天面板"
 }
