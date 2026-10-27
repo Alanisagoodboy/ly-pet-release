@@ -1,5 +1,5 @@
 {
-  "version": "0.4.2",
-  "url": "https://github.com/Alanisagoodboy/ly-pet-release/releases/download/v0.4.2/ly-pet-0.4.2.exe",
-  "notes": "新增 ZCode 状态源（零配置实时显示工具调用）；工作状态动画池轮换+摸鱼；状态源一级菜单；移除聊天面板"
+  "version": "0.4.3",
+  "url": "https://github.com/Alanisagoodboy/ly-pet-release/releases/download/v0.4.3/ly-pet-0.4.3.exe",
+  "notes": "检查更新改走 GitCode 镜像（大陆直连无需代理，三层兜底），新下载开箱即可收到后续更新提醒"
 }
