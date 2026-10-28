@@ -1,5 +1,5 @@
 {
-  "version": "0.4.3",
-  "url": "https://github.com/Alanisagoodboy/ly-pet-release/releases/download/v0.4.3/ly-pet-0.4.3.exe",
-  "notes": "检查更新改走 GitCode 镜像（大陆直连无需代理，三层兜底），新下载开箱即可收到后续更新提醒"
+  "version": "0.4.4",
+  "url": "https://github.com/Alanisagoodboy/ly-pet-release/releases/download/v0.4.4/ly-pet-0.4.4.exe",
+  "notes": "凌玉动画素材全新重制；拖拽手感修复（松手不再误触扔出，阈值可调）"
 }
