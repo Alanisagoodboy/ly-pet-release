@@ -1,5 +1,5 @@
 {
-  "version": "0.4.4",
-  "url": "https://github.com/Alanisagoodboy/ly-pet-release/releases/download/v0.4.4/ly-pet-0.4.4.exe",
-  "notes": "凌玉动画素材全新重制；拖拽手感修复（松手不再误触扔出，阈值可调）"
+  "version": "0.4.5",
+  "url": "https://github.com/Alanisagoodboy/ly-pet-release/releases/download/v0.4.5/ly-pet-0.4.5.exe",
+  "notes": "右键菜单全新美化：玻璃拟态深色风、多级子菜单、单选/更新蓝点更醒目；检查更新有待更新时菜单显示蓝点标记"
 }
